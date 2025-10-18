@@ -1,7 +1,8 @@
 # Coding is fun, Data is Gold !
-![image](https://github.com/agbaraolorunpo/agbaraolorunpo/blob/main/CMUL-Logo-1024x1024.jpg?raw=true)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc4aDk2MmI5c2luZ2htenBpZjM4Z3F2OTF4aHZtenV3NXF2cXR1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SFIxisidxlLqUSyutF/giphy.webp)
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
-![image](https://giphy.com/gifs/mlb-ohtani-shohei-DHQG46pPSvGch1JJuO)
+
+
 
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
@@ -92,19 +93,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
@@ -117,5 +106,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
+-------
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlmODJnbDVjaWRta3g1Y2V5bjhzemI5cnFia3FrbXF0eHFoN25wdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hxERQNWQudqSF1iDnr/giphy.webp)
+---------
 
