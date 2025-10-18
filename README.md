@@ -7,6 +7,15 @@
 
 ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc4aDk2MmI5c2luZ2htenBpZjM4Z3F2OTF4aHZtenV3NXF2cXR1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SFIxisidxlLqUSyutF/giphy.webp)
 
+# 👋 Turning Ideas Into Impactful Code 🚀
+
+I'm a **Software Developer** passionate about **data-driven solutions, bioinformatics, and web development**.  
+I love building projects that blend **science, purpose, and creativity** — empowering young people through knowledge and innovation.
+
+> “Knowledge is the treasure of life — it turns preparation into performance.”  
+
+
+
 -----
  - i am currently learning---
  - i am looking for collaboration
@@ -15,10 +24,54 @@
  - ask me about 
  - how to reach me
  - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats,picsum photo
------
-👨🏼‍💻 building [agbaraolorunpo.com][website]  
-🧠 learning data science for brain networking  
+----- 
 💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
+_________
+### 🛠️ Tech Toolbox
+🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Insomnia Research Dashboard
+A Streamlit app exploring how insomnia affects cardiac function and hypertension.  
+🔹 Python | Pandas | Numpy | Matplotlib  
+🔗 [View Repository](https://github.com/agbaraolorunpo/insomnia-research-dashboard)
+
+### 📊 Media Advertisement Sales Predictor
+Predicting sales from media spend using regression models.  
+🔹 Streamlit | Scikit-learn | Visualization  
+🔗 [View Demo](https://github.com/agbaraolorunpo/media-sales-predictor)
+
+_______
+
+### ✍️ Inspiring Blog for Students
+Motivating young minds to reach their potential through “The Power of P’s.”  
+🔗 [View Blog](https://github.com/agbaraolorunpo/blog)
+
+## 📈 GitHub Stats
+![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=agbaraolorunpo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agbaraolorunpo&layout=compact&theme=radical)
+
+
+
+“Knowledge is the treasure of life — it turns preparation into performance.” 💎
+
+📫 **Reach Me**
+- 🌐 [Portfolio](https://agbaraolorunpo.github.io/)
+- 💼 [LinkedIn](https://linkedin.com/in/agbaraolorunpo)
+- ✉️ [Email Me](mailto:youremail@example.com)
+
+📫 **Reach Me:**
+- 🌐 [Portfolio Website](https://agbaraolorunpo.github.io/)
+- 💼 [LinkedIn](https://linkedin.com/in/agbaraolorunpo)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- ✉️ [Email](mailto:youremail@example.com)
+
+
+- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 ## What do you think? Check this out
 - 🏡 [website][https://dailytrust.com/2023-election-seeking-the-mind-of-god-for-the-right-choice/#google_vignette] **|** 
 - 🏡 [website][https://www.vanguardngr.com/2023/03/2023-elections-now-that-a-winner-has-emerged-creating-an-enabling-environment/#google_vignette] **|**
