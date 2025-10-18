@@ -17,7 +17,7 @@
 🧠 learning data science for brain networking  
 💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 
-🏡 [website][website] **|** 
+🏡 [website][https://www.vanguardngr.com/2023/03/2023-elections-now-that-a-winner-has-emerged-creating-an-enabling-environment/#google_vignette] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
