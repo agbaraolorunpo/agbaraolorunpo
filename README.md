@@ -1,4 +1,4 @@
-## coding is fun
+### Coding is fun, Data is Gold
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
 
 <p align="left">I am a clinician, teacher, a researcher, a mentor and a creative writer!!</p>
