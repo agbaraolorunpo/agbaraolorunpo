@@ -28,8 +28,7 @@ I love building projects that blend **science, purpose, and creativity** — emp
 💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 _________
 ### 🛠️ Tech Toolbox
-🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain
-
+🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain .cytoscape 
 ---
 
 ## 🚀 Featured Projects
