@@ -1,5 +1,6 @@
-# Coding is fun, Data is Gold !
-<h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
+# Coding is fun, Data is Gold !:🫀🧠
+<h2 align="left">Hi 👋!:🧑‍🎓 I am Francis (PhD,MBBS) ... </h2> 
+
 
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
@@ -28,7 +29,7 @@ I love building projects that blend **science, purpose, and creativity** — emp
 💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 _________
 ### 🛠️ Tech Toolbox
-🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain .cytoscape 
+🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain .🗄️cytoscape 
 ---
 
 ## 🚀 Featured Projects
