@@ -1,7 +1,7 @@
 # Coding is fun, Data is Gold !
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
 
-#### I am a clinician, teacher, mentor, Time and Performance coach, researcher,speaker, creative writer!!
+#### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">  Research Interests
 
