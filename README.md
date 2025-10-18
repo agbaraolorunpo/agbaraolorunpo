@@ -74,7 +74,7 @@ Motivating young minds to reach their potential through “The Power of P’s.�
 - <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ## What do you think? Check this out
-- 🏡 [website][https://dailytrust.com/2023-election-seeking-the-mind-of-god-for-the-right-choice/#google_vignette] **|** 
+- 🏡 [Daily Trust Neespaper][https://dailytrust.com/2023-election-seeking-the-mind-of-god-for-the-right-choice/#google_vignette] **|** 
 - 🏡 [website][https://www.vanguardngr.com/2023/03/2023-elections-now-that-a-winner-has-emerged-creating-an-enabling-environment/#google_vignette] **|**
 - 🏡 [website][https://saharareporters.com/2023/03/28/2023-election-now-winner-has-emerged-creating-enabling-environment-dr-francis] **|** 
 - 🏡 [website][[(https://www.pinterest.com/healthyinfohub/)] **|** ] 
