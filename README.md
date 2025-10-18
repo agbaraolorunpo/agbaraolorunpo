@@ -14,7 +14,7 @@
  - very interested in bioinformatics,physiological electrical signaling 
  - ask me about 
  - how to reach me
- - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats
+ - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats,picsum photo
 -----
 👨🏼‍💻 building [agbaraolorunpo.com][website]  
 🧠 learning data science for brain networking  
