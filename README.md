@@ -4,8 +4,8 @@
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">  Research Interests
-[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)<br/>
 
+-----
  - i am currently learning---
  - i am looking for collaboration
  - i am expert in networking Biology
