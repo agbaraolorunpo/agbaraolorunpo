@@ -1,4 +1,6 @@
 # Coding is fun, Data is Gold !
+<h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
+
 ![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDc4aDk2MmI5c2luZ2htenBpZjM4Z3F2OTF4aHZtenV3NXF2cXR1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SFIxisidxlLqUSyutF/giphy.webp)
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
 
