@@ -1,6 +1,7 @@
 # Coding is fun, Data is Gold !
 ![image](https://github.com/agbaraolorunpo/agbaraolorunpo/blob/main/CMUL-Logo-1024x1024.jpg?raw=true)
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
+![image](https://giphy.com/gifs/mlb-ohtani-shohei-DHQG46pPSvGch1JJuO)
 
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
@@ -13,7 +14,7 @@
  - very interested in bioinformatics,physiological electrical signaling 
  - ask me about 
  - how to reach me
- - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom
+ - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats
 -----
 👨🏼‍💻 building [agbaraolorunpo.com][website]  
 🧠 learning data science for brain networking  
