@@ -66,6 +66,7 @@ Motivating young minds to reach their potential through “The Power of P’s.�
 📫 **Reach Me:**
 - 🌐 [Portfolio Website](https://agbaraolorunpo.github.io/)
 - 💼 [LinkedIn](https://linkedin.com/in/agbaraolorunpo)
+- 🥇[LinkedIn](https://www.linkedin.com/in/francis-agbaraolorunpo-mb-bs-ph-d-437a83188/?originalSubdomain=ng)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - ✉️ [Email](mailto:youremail@example.com)
 
