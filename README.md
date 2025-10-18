@@ -8,8 +8,10 @@
  - i am currently learning---
  - i am looking for collaboration
  - i am expert in networking Biology
+ - very interested in bioinformatics,physiological electrical signaling 
  - ask me about 
- - how to reach me 
+ - how to reach me
+ - my amazing resources
 
 👨🏼‍💻 building [agbaraolorunpo.com][website]  
 🧠 learning data science for brain networking  
