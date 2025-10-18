@@ -1,6 +1,8 @@
 # Coding is fun, Data is Gold !
+-----
+![image](https://github.com/agbaraolorunpo/agbaraolorunpo/blob/main/CMUL-Logo-1024x1024.jpg)
 <h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
-
+------
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">  Research Interests
