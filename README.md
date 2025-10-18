@@ -18,7 +18,7 @@
 💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
 
 - 🏡 [website][https://www.vanguardngr.com/2023/03/2023-elections-now-that-a-winner-has-emerged-creating-an-enabling-environment/#google_vignette] **|** 
-- 🏡 [website][ [[website][(https://www.pinterest.com/healthyinfohub/)] **|** ] 
+- 🏡 [website][[(https://www.pinterest.com/healthyinfohub/)] **|** ] 
 - 🐦 [twitter][twitter] **|** 
 - 📺 [youtube][youtube] **|** 
 - 🎥 [twitch][twitch] **|** 
