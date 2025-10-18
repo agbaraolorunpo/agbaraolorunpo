@@ -1,13 +1,41 @@
 
 
-<h2 align="left">Hi 👋! I am Dr Francis Agbaraolorunpo ...Clinical Data Scientist with University of Lagos </h2>
+<h2 align="left">Hi 👋! I am Francis  ...Clinical Data Scientist with University of Lagos </h2>
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">I am a clinician, teacher, a researcher, a mentor and a creative writer!!</p>
 <p align="left">  Research Interests
-- Digital health innovation
-- network biology with a number of bioinformatic tool
-- Healthcare analytics
-- Medical imaging analysis!</p>
+ ### senior frontend developer at [cloudflare][cloudflare] who likes emoji and typing in lowercase
+
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning how to build SaaS products  
+💜 loving [typescript][typescript], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
+
+🏡 [website][website] **|** 
+🦋 [bluesky][bluesky] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📰 [newsletter][newsletter] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[cloudflare]: https://cloudflare.com
+[typescript]: https://www.typescriptlang.org
+[react]: http://reactjs.org
+[remix]: https://remix.run
+[tailwind]: https://tailwindcss.com
+[prisma]: https://www.prisma.io
+[website]: https://bradgarropy.com
+[bluesky]: https://bsky.app/profile/bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[youtube]: https://youtube.com/bradgarropy
+[twitch]: https://twitch.tv/bradgarropy
+[newsletter]: https://bradgarropy.com/newsletter
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[npm]: https://npmjs.com/~bradgarropy
 
 
 
