@@ -4,6 +4,7 @@
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">  Research Interests
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)<br/>
 
  - i am currently learning---
  - i am looking for collaboration
@@ -11,7 +12,7 @@
  - very interested in bioinformatics,physiological electrical signaling 
  - ask me about 
  - how to reach me
- - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme
+ - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon
 
 👨🏼‍💻 building [agbaraolorunpo.com][website]  
 🧠 learning data science for brain networking  
