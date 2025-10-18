@@ -1,7 +1,8 @@
 
 
-<h2 align="left">Hi 👋! I am Francis (PhD,M.Sc,MBBS,B.Sc) ... </h2>
-#i'm a Medical Doctor, Developer, Teacher,Coach, Speaker,Writers and Researcher
+<h2 align="left">Hi 👋! I am Francis (PhD,MBBS) ... </h2>
+<h2 align="left">Hi 👋! i'm a Medical Doctor, Developer, Teacher,Coach, Speaker,Writers and Researcher) ... </h2>
+
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">I am a clinician, teacher, a researcher, a mentor and a creative writer!!</p>
 <p align="left">  Research Interests
