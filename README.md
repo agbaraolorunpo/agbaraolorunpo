@@ -6,7 +6,7 @@
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
 <p align="left">I am a clinician, teacher, a researcher, a mentor and a creative writer!!</p>
 <p align="left">  Research Interests
- ### senior frontend developer at [cloudflare][cloudflare] who likes emoji and typing in lowercase
+
  - i am currently learning---
  - i am looking for collaboration
  - i am expert in networking Biology
