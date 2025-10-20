@@ -1,4 +1,5 @@
 # Coding is fun, Data is Gold !:🫀🧠
+> “Knowledge is the treasure of life — it turns preparation into performance.” 
 <h2 align="left">Hi 👋!:🧑‍🎓 I am Francis (PhD,MBBS) ... </h2> 
 
 
@@ -12,26 +13,18 @@
 
 I'm a **Software Developer** passionate about **data-driven solutions, bioinformatics, and web development**.  
 I love building projects that blend **science, purpose, and creativity** — empowering young people through knowledge and innovation.
-
-> “Knowledge is the treasure of life — it turns preparation into performance.”  
-
-
-
------
- - i am currently learning---
- - i am looking for collaboration
- - i am expert in networking Biology
- - very interested in bioinformatics,physiological electrical signaling 
- - ask me about 
- - how to reach me
- - my amazing resources github profile chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats,picsum photo
------ 
-💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
-_________
+ 
+--------
 ### 🛠️ Tech Toolbox
 🟦 React • ⚙️ Python • 🧠 Machine Learning • 📊 Streamlit • 🎨 Tailwind CSS • 🗂️ SQL • 🧩 LangChain .🗄️cytoscape 
----
 
+
+ 
+🧰 my amazing resources github profile, chatgpt, readme generator,awesome github profile Readme,markdown,emoji,tandpfunskill icon,gifycom,github readme stats,picsum photo
+
+💜 loving [Biology Network Analysis][Biology Network Analysis], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
+
+ 
 ## 🚀 Featured Projects
 
 ### 🧠 Insomnia Research Dashboard
@@ -54,14 +47,6 @@ Motivating young minds to reach their potential through “The Power of P’s.�
 ![Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=agbaraolorunpo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agbaraolorunpo&layout=compact&theme=radical)
 
-
-
-“Knowledge is the treasure of life — it turns preparation into performance.” 💎
-
-📫 **Reach Me**
-- 🌐 [Portfolio](https://agbaraolorunpo.github.io/)
-- 💼 [LinkedIn](https://linkedin.com/in/agbaraolorunpo)
-- ✉️ [Email Me](mailto:youremail@example.com)
 
 📫 **Reach Me:**
 - 🌐 [Portfolio Website](https://agbaraolorunpo.github.io/)
