@@ -1,7 +1,13 @@
 # Coding is fun, Data is Gold !:🫀🧠
-> “Knowledge is the treasure of life — it turns preparation into performance.” 
+
 <h2 align="left">Hi 👋!:🧑‍🎓 I am Francis (PhD,MBBS) ... </h2> 
 
+- 👷‍♂️ am currently working on
+- 🏗️i recently built a program  to automatically...check it out [here]()
+- 🪴i'm currently learning...
+- 👷workworlooking to collaborate ..
+
+- project: What/Why/How
 
 #### Digital ethust/clinician/ teacher/mentor/ Time Coach/ Researcher/Speaker/creative writer!!
 <p align="left">Learning and Building with Data, the Gold Mine of the New World<br>Hello World!!</p>
